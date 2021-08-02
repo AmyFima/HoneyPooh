@@ -58,4 +58,3 @@ This version of the project works only in linux and contains a detection for 4 a
 
 # Authors 
 * **Amy Fima**
-* **Ofir salomon** 
