@@ -15,7 +15,7 @@ It is located between the server and the client and tells you what is happening 
 
 To run the project you just need to decide in which port the project will run and in which port you want to detect unusual actions.
 
-> If you use **Docker** to run the project, you would need to download a docker. You can download a docker with the instructions in [README.md](https://gitlab.com/AmyFima/kinneret-201-honeypot/-/blob/5.0.0/docker/README.md) document in the `docker` folder or use the instructions in the [site](https://docs.docker.com/engine/install/ubuntu/).
+> If you use **Docker** to run the project, you would need to download a docker. You can download a docker with the instructions in [README.md](https://github.com/AmyFima/HoneyPooh/blob/main/docker/README.md) document in the `docker` folder or use the instructions in the [site](https://docs.docker.com/engine/install/ubuntu/).
 
 > You need to download **Elasticsearch** and **Kibana** on your computer. You can use the instructions later in the document or use the [site](https://www.elastic.co/start).
 
@@ -46,8 +46,8 @@ _There are 2 running options:_
 * _running on the computer itself._
 * _running on a Docker container._
 
-For running on *the computer itself* go to the [README.md](https://gitlab.com/AmyFima/kinneret-201-honeypot/-/blob/5.0.0/proxy/README.md) document in the `proxy` folder.
-For running on a *docker container* go to the [README.md](https://gitlab.com/AmyFima/kinneret-201-honeypot/-/blob/5.0.0/docker/README.md) document in the `docker` folder. 
+For running on *the computer itself* go to the [README.md](https://github.com/AmyFima/HoneyPooh/blob/main/proxy/README.md) document in the `proxy` folder.
+For running on a *docker container* go to the [README.md](https://github.com/AmyFima/HoneyPooh/blob/main/docker/README.md) document in the `docker` folder. 
 
 # Versioning 
 This version of the project works only in linux and contains a detection for 4 attacks:
